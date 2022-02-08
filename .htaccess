@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ https://indianime.xyz/ [R=301]
